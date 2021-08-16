@@ -1,0 +1,2 @@
+# MOL
+Multilingual Offensive Lexicon
