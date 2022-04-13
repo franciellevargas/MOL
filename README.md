@@ -8,7 +8,9 @@
 
 <p align="justify"> The MOL consists of the first contextual lexicon for abusive language detection, which is composed of 1,000 explicit and implicit terms and expressions with any pejorative connotation, which was annotated with contextual information. For example, the term "slut" consists of a context-independent offensive term because in general this term is mostly applied only with pejorative conotation. On the other hand, the terms "useless" and "garbage" are classified as context-dependent offensive. Note that two last terms present this label because they are applied in both context of use: non-pejorative connotation, such as "this smartphone is useless" or "clean up garbage and prevent fires", and with pejorative connotation, such as "you are useless" or "this being human is such a garbage". </p>
 
-Multilingual Offensive Lexicon was extracted manually by a linguist from the HateBR corpus, and each term or expression was annotated by three different annotators, obtaining a high human agreement score (73% Kappa).
+Multilingual Offensive Lexicon was extracted manually by a linguist from the HateBR corpus, and each term or expression was annotated by three different annotators, obtaining a high human agreement score (73% Kappa). 
+
+Currently, MOL is available in 6 (six) different languages: Portuguese, English, Spanish, French, German and Turkish.
 
 The table below describes the MOL statistics
 <div align="center">
