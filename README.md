@@ -18,32 +18,27 @@ The following table describes in detail the MOL statistics
 
 |class|label|total|
 |--|--|--|  
-|Contextual-depedent offensive|1|3,500| 
-|Contextual-independent offensive|0|3,500| 
+|Contextual-independent offensive|1|612| 
+|Contextual-depedent offensive|0|387| 
+ |Total|0|1,000| 
+
 
 </td><td>
 
-|class|label|total|
-|--|--|--|
-|Explict |3|778|
-|Implicit|2|1,044|
+|class|total|  
+|--|--|  
+|non-hate |864|
+|partyism|69|
+|sexism|35|
+|homophobia|16|
+|fatphobia|9|
+|religious intolerance|9|
+|antisemitism|1|
+|apology for the dictatorship|5|
+|racism|4|  
+|antisemitistm|3| 
+|total|1,000|
 
-  
-</td><td>
-
-|class|label|total|  
-|--|--|--|  
-|antisemitism|1|2|
-|apology to the dictatorship|2|32|
-|fatphobia|3|27|
-|homophobia|4|17|
-|partyism|5|496|
-|racism|6|8|
-|religious intolerance|7|47|
-|sexism|8|97|
-|xenophobia|9|1|
-|non-hate |-1|2,773|
-|non-offensive|0|3,500|
 
 </td></tr></table>
 </div>
