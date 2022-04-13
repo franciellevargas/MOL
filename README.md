@@ -10,7 +10,7 @@ The MOL consists of the first contextual lexicon for abusive language detection,
 
 Multilingual Offensive Lexicon was extracted manually by a linguist from the HateBR corpus, and each term or expression was annotated by three different annotators, obtaining a high human agreement score (73% Kappa).
 
-The following table describes in detail the MOL statistics
+The table below describes the MOL statistics
 <div align="center">
 <table> 
 <tr><th>Contextual Labels</th><th>Hate Speech Targets</th></tr>
