@@ -12,14 +12,6 @@ Multilingual Offensive Lexicon was extracted manually by a linguist from the Hat
 MOL is available in 6 (six) different languages: Portuguese, English, Spanish, French, German and Turkish.
 
 
-
-<h2 align="center"> CITING </h2>
-
-<p align="justify"> Vargas, F.A., Carvalho, I., Góes, F. R., Pardo, T.A.S., Benevenuto, F. (2022). An expert annotated corpus and contextual lexicon for hate speech detection in Brazilian Portuguese. Natural Language Engineering Journal, pp 1-20 Association for Computational Linguistics (ACL). </p>
-
-
-
-
 The table below describes the MOL statistics
 <div align="center">
 <table> 
@@ -52,4 +44,10 @@ The table below describes the MOL statistics
 
 </td></tr></table>
 </div>
+
+
+
+<h2 align="center"> CITING </h2>
+
+<p align="justify"> Vargas, F.A., Carvalho, I., Góes, F. R., Pardo, T.A.S., Benevenuto, F. (2022). An expert annotated corpus and contextual lexicon for hate speech detection in Brazilian Portuguese. Natural Language Engineering Journal, pp 1-20 Association for Computational Linguistics (ACL). </p>
 
