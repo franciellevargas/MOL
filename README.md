@@ -49,14 +49,14 @@ The table below describes the MOL statistics
 
 <h2 align="left"> CITING </h2>
 
-<p align="justify"> Vargas, F.A., Carvalho, I., Góes, F. R., Pardo, T.A.S., Benevenuto, F. (2022). An expert annotated corpus and contextual lexicon for hate speech detection in Brazilian Portuguese. Natural Language Engineering Journal, pp 1-20 Association for Computational Linguistics (ACL).
+<p align="justify"> Vargas, F., Carvalho, I., Góes, F. R., Pardo, T.A.S., Benevenuto, F. (2022). An expert annotated corpus and contextual lexicon for hate speech detection in Brazilian Portuguese. Natural Language Engineering Journal, pp 1-20 Association for Computational Linguistics (ACL).
 </p>
 
 <br>
 
 <h2 align="left"> ACKNOWLEDGEMENTS </h2>
 
-<p align="justify">The authors are grateful to the Social Computing Laboratory at the Computer Science Department - the Federal University of Minas Gerais for supporting this work. This work was funded by Fundep research project number 28175. 
+<p align="justify">The authors are grateful to Social Computing Laboratory at Computer Science Department, Federal University of Minas Gerais for supporting this work. This work is funded by Fapemig, Fapesp and CNPq. 
   
 </p>
 </br>
