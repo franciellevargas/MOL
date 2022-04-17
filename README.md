@@ -15,7 +15,7 @@ MOL is available in 6 (six) different languages: Portuguese, English, Spanish, F
 The table below describes the MOL statistics
 <div align="center">
 <table> 
-<tr><th>Contextual Labels</th><th>Hate Speech Targets</th></tr>
+<tr><th>Contextual Information</th><th>Hate Groups </th></tr>
 <tr><td>
 
 |class|label|total|
