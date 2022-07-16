@@ -56,9 +56,10 @@ The table below describes the MOL statistics
 
 <h2 align="left"> ACKNOWLEDGEMENTS </h2>
 
-<p align="justify">The authors are grateful to Social Computing Laboratory at Computer Science Department, Federal University of Minas Gerais for supporting this work. This work was funded by Fapemig, Fapesp and CNPq. 
-  
+
+<p align="justify">The authors are grateful to Social Computing Laboratory of the Computer Science Department at Federal University of Minas Gerais for supporting this work. This work was funded by Fapemig, Fapesp and CNPq. 
 </p>
+
 </br>
 
 
