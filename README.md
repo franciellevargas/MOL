@@ -55,11 +55,11 @@ Portuguese hate speech detection. Natural Language Engineering Journal, pp 1-25.
 
 <br>
 
-<h2 align="left"> ACKNOWLEDGEMENTS </h2>
+<h2 align="left"> FUNDING </h2>
 
-
-<p align="justify">The authors are grateful to Social Computing Laboratory of the Computer Science Department at Federal University of Minas Gerais for supporting this work. This work was funded by Fapemig, Fapesp and CNPq. 
-</p>
+![SSC-logo-300x171](https://github.com/franciellevargas/HateBR/blob/main/.github/sinch.png?raw=true)
+![SSC-logo-300x171](https://github.com/franciellevargas/HateBR/blob/main/.github/fapemig.png?raw=true)
+![SSC-logo-300x171](https://github.com/franciellevargas/HateBR/blob/main/.github/fapesp.jpg?raw=true)
 
 </br>
 
