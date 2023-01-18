@@ -49,8 +49,8 @@ The table below describes the MOL statistics
 
 <h2 align="left"> CITING </h2>
 
-<p align="justify"> Vargas, F., Carvalho, I., Góes, F. R., Pardo, T.A.S., Benevenuto, F. (2022). Contextual-aware and expert resources for Brazilian
-Portuguese hate speech detection. Natural Language Engineering Journal, pp 1-25. Association for Computational Linguistics (ACL).
+<p align="justify"> Vargas, F., Carvalho, I., Góes, F. R., Pardo, T.A.S., Benevenuto, F. (2022). Contextual-aware and expert data resources for Brazilian
+Portuguese hate speech detection. Natural Language Engineering Journal, pp 1-26. Association for Computational Linguistics (ACL).
 </p>
 
 <br>
