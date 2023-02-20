@@ -282,7 +282,7 @@ term,explicit,esquerdopatia,1,partyism,1,libtard,1,partyism,izquierdopata,,party
 term,explicit,inescrupuloso,1,0,0,reckless,1,0,inescrupuloso,,0,sans scrupules,1,0,Skrupellos,1,0,vijdansız,1,0,https://michaelis.uol.com.br/moderno-portugues/busca/portugues-brasileiro/inescrupuloso/
 expression,explicit,se lixando,1,0,0,not giving a fuck,1,0,no le importas,,0,se foutre de tout,1,0,keinen scheiß geben / sich einen Dreck drum scheren,1,0,siklememek,1,0,"https://idioms.thefreedictionary.com/I+don%27t+give+a+fuck#:~:text=rude%20slang%20An%20expression%20of,Not%20everything%20is%20about%20you."
 term,explicit,aff,1,0,0,ugh,1,0,Adult FriendFinder,,0,0,0,0,0,0,0,öf,1,0,https://dictionary.cambridge.org/pt/dicionario/ingles/ugh
-term,explicit,pioche,1,0,0,sucker,1,0,0,,0,pioche,1,0,Lutscher,1,0,piç,1,0,https://michaelis.uol.com.br/moderno-portugues/busca/portugues-brasileiro/picareta/
+term,explicit,picareta,1,0,0,sucker,1,0,0,,0,pioche,1,0,Lutscher,1,0,piç,1,0,https://michaelis.uol.com.br/moderno-portugues/busca/portugues-brasileiro/picareta/
 expression,explicit,não sabe nada,0,0,0,dumb,0,0,no sabe nada,,0,ne connaît rien,0,0,von nichts wissen,0,0,aptal,0,0,https://dictionary.cambridge.org/pt/dicionario/ingles/dumb
 term,explicit,aborrecente,1,0,0,stupid teenagers,1,0,molestando,,0,s'ennuyer,1,0,sich langweilen,1,0,aptal gençler,1,0,https://michaelis.uol.com.br/moderno-portugues/busca/portugues-brasileiro/Aborrecente/
 term,explicit,jogando sujo,1,0,0,play dirty,1,0,jugando sucio,,0,jouer sale,1,0,0,0,0,kirli oynamak,1,0,https://dictionary.cambridge.org/pt/dicionario/ingles/play-dirty
@@ -998,3 +998,15 @@ expression,implicit,diarreia verbal,1,0,0,verbal diarrhea,1,0,diarrea verbal,,0,
 expression,implicit,não vale o que o gato enterra,1,0,0,worthlessness,1,0,no vale ni una mierda,,0,aussi bon qu'une merde,1,0,ein Stück scheiße sein,1,0,bok çuvalı,1,0,https://dictionary.cambridge.org/pt/dicionario/ingles/worthlessness
 expression,implicit,conseguiu formular uma frase inteira?,0,0,0,stupidly,0,0,conseguiste formular la frase entera?,,0,Tu peux même faire une phrase ?,0,0,kannst du überhaupt einen vernünftigen Satz herausbringen?,0,0,iki kelimeyi bir araya getiremez,0,0,https://dictionary.cambridge.org/pt/dicionario/ingles/stupidly
 expression,implicit,capivara louca,1,0,0,batshit crazy,1,0,capibara loca,,0,fou furieux,1,0,verrückt,1,0,deli,1,0,https://www.urbandictionary.com/define.php?term=batshit%20crazy
+New terms realease,,,,,,,,,,,,,,,,,,,,,
+term,explicit,cafona,1,0,1,,,,,,,,,,,,,,,,
+term,explicit,casalzinho,0,0,0,,,,,,,,,,,,,,,,
+term,explicit,maquiavélico,1,0,0,,,,,,,,,,,,,,,,
+term,explicit,gagá,1,0,0,,,,,,,,,,,,,,,,
+term,explicit,piada,0,0,0,,,,,,,,,,,,,,,,
+term,explicit,hipocrisia,1,0,0,,,,,,,,,,,,,,,,
+term,explicit,trevas,0,0,0,,,,,,,,,,,,,,,,
+term,explicit,laia,1,0,0,,,,,,,,,,,,,,,,
+term,explicit,larapio,1,0,1,,,,,,,,,,,,,,,,
+term,explicit,pior,0,0,0,,,,,,,,,,,,,,,,
+term,explicit,inveja,0,0,0,,,,,,,,,,,,,,,,
