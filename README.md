@@ -49,9 +49,22 @@ The table below describes the MOL statistics
 
 <h2 align="left"> CITING </h2>
 
-<p align="justify"> Vargas, F., Carvalho, I., Góes, F. R., Pardo, T.A.S., Benevenuto, F. (2022). Contextual-aware and expert data resources for Brazilian
-Portuguese hate speech detection. Natural Language Engineering Journal, pp 1-26. Association for Computational Linguistics (ACL).
-</p>
+@inproceedings{vargas-etal-2021-contextual,
+    title = "Contextual-Lexicon Approach for Abusive Language Detection",
+    author = "Vargas, Francielle  and
+      Rodrigues de G{\'o}es, Fabiana  and
+      Carvalho, Isabelle  and
+      Benevenuto, Fabr{\'\i}cio  and
+      Pardo, Thiago",
+    booktitle = "Proceedings of the International Conference on Recent Advances in Natural Language Processing (RANLP 2021)",
+    month = sep,
+    year = "2021",
+    address = "Held Online",
+    publisher = "INCOMA Ltd.",
+    url = "https://aclanthology.org/2021.ranlp-1.161",
+    pages = "1438--1447",
+    abstract = "Since a lexicon-based approach is more elegant scientifically, explaining the solution components and being easier to generalize to other applications, this paper provides a new approach for offensive language and hate speech detection on social media, which embodies a lexicon of implicit and explicit offensive and swearing expressions annotated with contextual information. Due to the severity of the social media abusive comments in Brazil, and the lack of research in Portuguese, Brazilian Portuguese is the language used to validate the models. Nevertheless, our method may be applied to any other language. The conducted experiments show the effectiveness of the proposed approach, outperforming the current baseline methods for the Portuguese language.",
+}
 
 <br>
 
