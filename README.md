@@ -49,23 +49,7 @@ The table below describes the MOL statistics
 
 <h2 align="left"> CITING </h2>
 
-@inproceedings{vargas-etal-2021-contextual,
-    title = "Contextual-Lexicon Approach for Abusive Language Detection",
-    author = "Vargas, Francielle  and
-      Rodrigues de G{\'o}es, Fabiana  and
-      Carvalho, Isabelle  and
-      Benevenuto, Fabr{\'\i}cio  and
-      Pardo, Thiago",
-    booktitle = "Proceedings of the International Conference on Recent Advances in Natural Language Processing (RANLP 2021)",
-    month = sep,
-    year = "2021",
-    address = "Held Online",
-    publisher = "INCOMA Ltd.",
-    url = "https://aclanthology.org/2021.ranlp-1.161",
-    pages = "1438--1447",
-    abstract = "Since a lexicon-based approach is more elegant scientifically, explaining the solution components and being easier to generalize to other applications, this paper provides a new approach for offensive language and hate speech detection on social media, which embodies a lexicon of implicit and explicit offensive and swearing expressions annotated with contextual information. Due to the severity of the social media abusive comments in Brazil, and the lack of research in Portuguese, Brazilian Portuguese is the language used to validate the models. Nevertheless, our method may be applied to any other language. The conducted experiments show the effectiveness of the proposed approach, outperforming the current baseline methods for the Portuguese language.",
-}
-
+Vargas, F. , Góes, F.R., Carvalho, I., Pardo, T.A.S., Benevenuto, F. (2021). <b>Contextual-Lexicon Approach for Abusive Language Detection</b>. Proceedings of the 13th Conference Recent Advances in Natural Language Processing - Deep Learning for Natural Language Processing Methods and Applications (RANLP). pp.1442-1451. Held Online. Url: <https://aclanthology.org/2021.ranlp-1.161/>.
 <br>
 
 <h2 align="left"> FUNDING </h2>
