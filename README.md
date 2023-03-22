@@ -5,11 +5,11 @@
 
 <h2 align="center"> MOL - Multilingual Offensive Lexicon Annotated with Contextual Information </h2>  
 
-<p align="justify"> The MOL consists of the first contextual lexicon for abusive language detection, which is composed of 1,000 explicit and implicit terms and expressions with any pejorative connotation annotated with contextual information. For example, the term "slut" consists of a context-independent offensive term because in general this term is mostly applied only with pejorative conotation. On the other hand, the terms "useless" and "garbage" are classified as context-dependent offensive. Note that two last terms present this label because they are applied in both context of use: non-pejorative connotation, such as "this smartphone is useless" or "clean up garbage and prevent fires", and with pejorative connotation, such as "you are useless" or "this being human is such a garbage". </p>
+<p align="justify"> The MOL consists of first specialized lexicon for abusive language detection annotated with contextual information. It is composed of 1,000 explicit and implicit terms and expressions with pejorative connotation, which were manually identified by a linguist and annotated by three different annotators with contextual information labels. For example, the term "wretched" consists of a context-independent offensive term due to fact that this term is mostly found in pejorative context of use. Differentlly, the terms "useless" and "worm" are classified as context-dependent offensive terms due to fact that both terms may be found in both context of use: (i) with non-pejorative connotation, such as "this smartphone is useless" or "The fisherman uses worms for bait", as well as (ii) with pejorative connotation, such as "this last President was useless" or "this being human is such a worm". </p>
 
-Multilingual Offensive Lexicon was extracted manually by a linguist from the HateBR corpus, and each term or expression was annotated by three different annotators, obtaining a high human agreement score (73% Kappa). 
+Multilingual Offensive Lexicon was extracted manually by a linguist from the HateBR dataset, and each term or expression was annotated by three different annotators, obtaining a high human-agreement score (73% Kappa). 
 
-MOL is available in 6 (six) different languages: Portuguese, English, Spanish, French, German and Turkish.
+MOL was originally written in Portuguese and manually translated by native speakers in English, Spanish, French, German and Turkish. Therefore, MOL is available in six different languages.
 
 
 The table below describes the MOL statistics
@@ -50,6 +50,9 @@ The table below describes the MOL statistics
 <h2 align="left"> CITING </h2>
 
 Vargas, F. , Góes, F.R., Carvalho, I., Pardo, T.A.S., Benevenuto, F. (2021). <b>Contextual-Lexicon Approach for Abusive Language Detection</b>. Proceedings of the 13th Conference Recent Advances in Natural Language Processing - Deep Learning for Natural Language Processing Methods and Applications (RANLP). pp.1442-1451. Held Online. Url: <https://aclanthology.org/2021.ranlp-1.161/>.
+
+
+
 <br>
 
 <h2 align="left"> FUNDING </h2>
