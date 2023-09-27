@@ -49,9 +49,8 @@ The table below describes the MOL statistics
 
 <h2 align="left"> CITING </h2>
 
-Vargas, F., Carvalho, I., Góes, F.R., Pardo, T.A.S., Benevenuto, F. (2023). <b>Context-Aware and Expert Data Resources for Brazilian Portuguese Abusive Language Detection</b>.  Natural Language Enginerring Journal - Cambridge Core. pp.1-21. To appear.
-
-Vargas, F., Góes, F.R., Carvalho, I., Pardo, T.A.S., Benevenuto, F. (2021). Contextual-Lexicon Approach for Abusive Language Detection. 13th Conference Recent Advances in Natural Language Processing - Deep Learning for Natural Language Processing Methods and Applications (RANLP). pp.1442-1451. Held Online. <https://aclanthology.org/2021.ranlp-1.161/>.
+Vargas, F., Carvalho, I., Pardo, T.A.S., Benevenuto, F. (2023). <b>Context-Aware and Expert Data Resources for Brazilian Portuguese Abusive Language Detection</b>.  
+Natural Language Enginerring Journal - Cambridge Core. pp.1-21.
 
 <br>
 
