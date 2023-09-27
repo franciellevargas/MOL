@@ -7,9 +7,7 @@
 
 <p align="justify"> The MOL consists of first specialized lexicon for abusive language detection annotated with contextual information. It is composed of 1,000 explicit and implicit terms and expressions with pejorative connotation, which were manually identified by a linguist and annotated by three different annotators with contextual information labels. For example, the term "hypocritical" consists of a context-independent offensive term due to fact that this term is mostly found in pejorative context of use. Differentlly, the terms "useless" and "worm" are classified as context-dependent offensive terms due to fact that both terms may be found in both context of use: (i) with non-pejorative connotation, such as "this smartphone is useless" or "The fisherman uses worms for bait", as well as (ii) with pejorative connotation, such as "this last President was useless" or "this being human is such a worm". </p>
 
-Multilingual Offensive Lexicon was extracted manually by a linguist from the HateBR dataset, and each term or expression was annotated by three different annotators, obtaining a high human-agreement score (73% Kappa). 
-
-MOL was originally written in Portuguese and manually translated by native speakers in English, Spanish, French, German and Turkish. Therefore, MOL is available in six different languages.
+Multilingual Offensive Lexicon was extracted manually by a linguist from the HateBR dataset, and each term or expression was annotated by three different annotators, obtaining a high human-agreement score (73% Kappa). MOL was originally written in Portuguese and manually translated by native speakers in English, Spanish, French, German and Turkish. Therefore, MOL is available in six different languages.
 
 
 The table below describes the MOL statistics
