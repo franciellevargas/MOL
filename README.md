@@ -47,7 +47,7 @@ The table below describes the MOL statistics
 
 <h2 align="left"> CITING </h2>
 
-Vargas, F., Carvalho, I., Pardo, T.A.S., Benevenuto, F. (2023). <b>Context-Aware and Expert Data Resources for Brazilian Portuguese Abusive Language Detection</b>. Natural Language Enginerring Journal - Cambridge Core. pp.1-21.
+Vargas, F., Carvalho, I., Pardo, T.A.S., Benevenuto, F. (2023). <b>Context-Aware and Expert Data Resources for Brazilian Portuguese Hate Speech Detection</b>. Natural Language Enginerring Journal - Cambridge Core. pp.1-21.
 
 <br>
 
