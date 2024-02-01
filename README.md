@@ -13,7 +13,7 @@ Multilingual Offensive Lexicon was extracted manually by a linguist from the Hat
 The table below describes the MOL statistics
 <div align="center">
 <table> 
-<tr><th>Contextual Information</th><th>Hate Groups </th></tr>
+<tr><th>Contextual Information</th><th>Hate Targets </th></tr>
 <tr><td>
 
 |class|label|total|
