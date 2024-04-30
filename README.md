@@ -49,8 +49,33 @@ The table below describes the MOL statistics
 Vargas, F., Carvalho, I., Pardo, T.A.S., Benevenuto, F. (2024). <b>Context-Aware and Expert Data Resources for Brazilian Portuguese Hate Speech Detection</b>.  Natural Language Processing Journal - Cambridge Core. pp.1-21.
 </p>
 
+<p align="justify">
+Vargas, F., Góes, F., Carvalho, I., Benevenuto, F., Pardo, T.A.S. (2022). <b>Contextual-Lexicon Approach for Abusive Language Detection</b>.  Proceedings of the International Conference on Recent Advances in Natural Language Processing (RANLP 2021). pp.1438–1447. Held Online.
+</p>
+
+<br>
+<h2 align="left"> BIBTEX </h2>
+<p align="justify">
+@inproceedings{vargas-etal-2021-contextual,
+    title = "Contextual-Lexicon Approach for Abusive Language Detection",
+    author = "Vargas, Francielle  and
+      Rodrigues de G{\'o}es, Fabiana  and
+      Carvalho, Isabelle  and
+      Benevenuto, Fabr{\'\i}cio  and
+      Pardo, Thiago",
+    editor = "Mitkov, Ruslan  and
+      Angelova, Galia",
+    booktitle = "Proceedings of the International Conference on Recent Advances in Natural Language Processing (RANLP 2021)",
+    year = "2021",
+    address = "Held Online",
+    publisher = "INCOMA Ltd.",
+    url = "https://aclanthology.org/2021.ranlp-1.161",
+    pages = "1438--1447",
+    }
+ </p> 
 <br>
 
+<br>
 <h2 align="left"> FUNDING </h2>
 
  ![SSC-logo-300x171](https://github.com/franciellevargas/franciellevargas.github.io/blob/92143a7500195e8bfda14c7c0dfe09bf3e996fad/img/locus_media.png)   ![SSC-logo-300x171](https://github.com/franciellevargas/HateBR/blob/e5ccb9cd6b43c26edacb2c4abd32fd75f8a574a2/.github/logo_novo_english.gif) 
