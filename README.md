@@ -17,8 +17,8 @@ The table below describes the MOL statistics
 
 |class|label|total|
 |--|--|--|  
-|Contextual-independent offensive|1|612| 
-|Contextual-depedent offensive|0|387| 
+|Context-independent offensive|1|612| 
+|Context-depedent offensive|0|387| 
  |Total||1,000| 
 
 
