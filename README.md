@@ -50,7 +50,7 @@ Vargas, F., Carvalho, I., Pardo, T.A.S., Benevenuto, F. (2024). <b>Context-Aware
 </p>
 
 <p align="justify">
-Vargas, F., Góes, F., Carvalho, I., Benevenuto, F., Pardo, T.A.S. (2022). <b>Contextual-Lexicon Approach for Abusive Language Detection</b>.  Proceedings of the International Conference on Recent Advances in Natural Language Processing (RANLP 2021). pp.1438–1447. Held Online.
+Vargas, F., Góes, F., Carvalho, I., Benevenuto, F., Pardo, T.A.S. (2022). <b>Contextual-Lexicon Approach for Abusive Language Detection</b>.  Proceedings of the 13th International Conference on Recent Advances in Natural Language Processing (RANLP 2021). pp.1438–1447. Held Online.
 </p>
 
 <br>
