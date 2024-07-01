@@ -50,7 +50,7 @@ Vargas, F., Carvalho, I., Pardo, T.A.S., Benevenuto, F. (2024). <b>Context-Aware
 </p>
 
 <p align="justify">
-Vargas, F., Góes, F., Carvalho, I., Benevenuto, F., Pardo, T.A.S. (2022). <b>Contextual-Lexicon Approach for Abusive Language Detection</b>.  Proceedings of the 13th International Conference on Recent Advances in Natural Language Processing (RANLP 2021). pp.1438–1447. Held Online.
+Vargas, F., Góes, F., Carvalho, I., Benevenuto, F., Pardo, T.A.S. (2022). <b>Contextual-Lexicon Approach for Abusive Language Detection</b>.  Proceedings of the 13th International Conference on Recent Advances in Natural Language Processing (RANLP 2021). pp.1438–1447. Held Online. https://aclanthology.org/2021.ranlp-1.161
 </p>
 
 <br>
@@ -78,8 +78,8 @@ Vargas, F., Góes, F., Carvalho, I., Benevenuto, F., Pardo, T.A.S. (2022). <b>Co
 <br>
 <h2 align="left"> FUNDING </h2>
 
-![SSC-logo-300x171](https://github.com/franciellevargas/franciellevargas.github.io/blob/38268e9e159641a4361a00fe165e6d5d4d76a2d0/img/google-logo.png)
-![SSC-logo-300x171](https://github.com/franciellevargas/franciellevargas.github.io/blob/92143a7500195e8bfda14c7c0dfe09bf3e996fad/img/locus_media.png) 
+![SSC-logo-300x171](https://github.com/franciellevargas/franciellevargas.github.io/blob/4a6d4f3fd538d4255287b0988fa15669d75446e5/img/google-logo-menor.png)
+![SSC-logo-300x171](https://github.com/franciellevargas/franciellevargas.github.io/blob/8f353e83a7cd62aa435fb04e57be4afdafc1b43e/img/locus_media.png)
 
 </br>
 
