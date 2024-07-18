@@ -80,7 +80,7 @@ Vargas, F., Góes, F., Carvalho, I., Benevenuto, F., Pardo, T.A.S. (2022). <b>Co
 
 
 ![SSC-logo-300x171](https://github.com/franciellevargas/franciellevargas.github.io/blob/511f98e149a014caf00de2f5260560706f30bcd2/img/fapesp.jpg)
-![SSC-logo-300x171](https://github.com/franciellevargas/franciellevargas.github.io/blob/511f98e149a014caf00de2f5260560706f30bcd2/img/cnpq-capes.png)
+![SSC-logo-300x171](https://github.com/franciellevargas/franciellevargas.github.io/blob/8fbef791e3062ea10ac9d389acb29af22c00d69a/img/google-logo-menor.png)
 
 </br>
 
