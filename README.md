@@ -46,7 +46,7 @@ The table below describes the MOL statistics
 <br>
 <h2 align="left"> CITING </h2>
 <p align="justify">
-Vargas, F., Carvalho, I., Pardo, T.A.S., Benevenuto, F. (2024). <b>Context-Aware and Expert Data Resources for Brazilian Portuguese Hate Speech Detection</b>.  Natural Language Processing Journal - Cambridge Core. pp.1-21.
+Vargas, F., Carvalho, I., Pardo, T.A.S., Benevenuto, F. (2024). <b>Context-Aware and Expert Data Resources for Brazilian Portuguese Hate Speech Detection</b>.  Natural Language Processing Journal - Cambridge Core. pp.1-23. doi:10.1017/nlp.2024.18
 </p>
 
 <p align="justify">
