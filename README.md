@@ -46,33 +46,24 @@ The table below describes the MOL statistics
 <br>
 <h2 align="left"> CITING </h2>
 <p align="justify">
-Vargas, F., Carvalho, I., Pardo, T.A.S., Benevenuto, F. (2024). <b>Context-Aware and Expert Data Resources for Brazilian Portuguese Hate Speech Detection</b>.  Natural Language Processing Journal - Cambridge Core. pp.1-23. doi:10.1017/nlp.2024.18
+Vargas, F., Carvalho, I., Pardo, T.A.S., Benevenuto, F. (2024). <b>Context-Aware and Expert Data Resources for Brazilian Portuguese Hate Speech Detection</b>. 
+Natural Language Processing Journal. Cambridge University Press. pp.1-22. https://www.cambridge.org/core/journals/natural-language-processing/article/contextaware-and-expert-data-resources-for-brazilian-portuguese-hate-speech-detection/7D9019ED5471CD16E320EBED06A6E923#.
 </p>
 
-<p align="justify">
-Vargas, F., Góes, F., Carvalho, I., Benevenuto, F., Pardo, T.A.S. (2022). <b>Contextual-Lexicon Approach for Abusive Language Detection</b>.  Proceedings of the 13th International Conference on Recent Advances in Natural Language Processing (RANLP 2021). pp.1438–1447. Held Online. https://aclanthology.org/2021.ranlp-1.161
-</p>
 
 <br>
 <h2 align="left"> BIBTEX </h2>
-<p align="justify">
-@inproceedings{vargas-etal-2021-contextual,
-    title = "Contextual-Lexicon Approach for Abusive Language Detection",
-    author = "Vargas, Francielle  and
-      Rodrigues de G{\'o}es, Fabiana  and
-      Carvalho, Isabelle  and
-      Benevenuto, Fabr{\'\i}cio  and
-      Pardo, Thiago",
-    editor = "Mitkov, Ruslan  and
-      Angelova, Galia",
-    booktitle = "Proceedings of the International Conference on Recent Advances in Natural Language Processing (RANLP 2021)",
-    year = "2021",
-    address = "Held Online",
-    publisher = "INCOMA Ltd.",
-    url = "https://aclanthology.org/2021.ranlp-1.161",
-    pages = "1438--1447",
-    }
- </p> 
+
+ @article{Vargas_Carvalho_Pardo_Benevenuto_2024, 
+ author={Vargas, Francielle and Carvalho, Isabelle and Pardo, Thiago A. S. and Benevenuto, Fabrício},
+ title={Context-aware and expert data resources for Brazilian Portuguese hate speech detection}, 
+ DOI={10.1017/nlp.2024.18}, 
+ journal={Natural Language Processing},  
+ year={2024}, 
+ pages={1–22},
+ } 
+ <div></div>
+<br>
 <br>
 
 <br>
