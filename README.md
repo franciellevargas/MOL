@@ -66,11 +66,6 @@ Natural Language Processing Journal. Cambridge University Press. pp.1-22. https:
 <br>
 <br>
 
-<br>
-<h2 align="left"> FUNDING </h2>
 
-![SSC-logo-300x171](https://github.com/franciellevargas/franciellevargas.github.io/blob/8fbef791e3062ea10ac9d389acb29af22c00d69a/img/google-logo-menor.png)
-
-</br>
 
 
