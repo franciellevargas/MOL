@@ -26,7 +26,7 @@ The table below describes the MOL statistics
 
 |class|total|  
 |--|--|  
-|no-hate |864|
+|non-target|864|
 |partyism|69|
 |sexism|35|
 |homophobia|16|
